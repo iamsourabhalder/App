@@ -3,36 +3,36 @@
     "id": 101,
     "title": "Ergonomic Memory Foam Pillow",
     "category": "Kitchen & Home",
-    "price": 1310,
-    "originalPrice": 1589,
-    "stock": 0,
+    "price": 1155,
+    "originalPrice": 1554,
+    "stock": 29,
     "img": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22300%22%20height%3D%22300%22%20viewBox%3D%220%200%20300%20300%22%3E%3Crect%20width%3D%22300%22%20height%3D%22300%22%20fill%3D%22%2523e0e7ff%22%2F%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2250%25%22%20dominant-baseline%3D%22middle%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%2220%22%20font-weight%3D%22bold%22%20fill%3D%22%25234338ca%22%3E%F0%9F%8E%A7%20HD%20Earbuds%3C%2Ftext%3E%3C%2Fsvg%3E"
   },
   {
     "id": 102,
-    "title": "Compact Air Fryer XL",
+    "title": "Designer Leather Wallet",
     "category": "Electronics",
-    "price": 1614,
-    "originalPrice": 2392,
-    "stock": 27,
+    "price": 1528,
+    "originalPrice": 2365,
+    "stock": 14,
     "img": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22300%22%20height%3D%22300%22%20viewBox%3D%220%200%20300%20300%22%3E%3Crect%20width%3D%22300%22%20height%3D%22300%22%20fill%3D%22%2523dcfce7%22%2F%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2250%25%22%20dominant-baseline%3D%22middle%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%2220%22%20font-weight%3D%22bold%22%20fill%3D%22%252315803d%22%3E%F0%9F%A5%A4%20Electric%20Juicer%3C%2Ftext%3E%3C%2Fsvg%3E"
   },
   {
     "id": 103,
     "title": "Automatic Espresso Coffee Maker",
     "category": "Kitchen & Home",
-    "price": 1146,
-    "originalPrice": 2153,
+    "price": 439,
+    "originalPrice": 1278,
     "stock": 30,
     "img": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22300%22%20height%3D%22300%22%20viewBox%3D%220%200%20300%20300%22%3E%3Crect%20width%3D%22300%22%20height%3D%22300%22%20fill%3D%22%2523fee2e2%22%2F%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2250%25%22%20dominant-baseline%3D%22middle%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%2220%22%20font-weight%3D%22bold%22%20fill%3D%22%2523dc2626%22%3E%F0%9F%8D%B3%20Cookware%20Set%3C%2Ftext%3E%3C%2Fsvg%3E"
   },
   {
     "id": 104,
-    "title": "Pro Gaming Optical Mouse",
+    "title": "High-Speed Blender Juicer",
     "category": "Electronics",
-    "price": 1054,
-    "originalPrice": 1545,
-    "stock": 14,
+    "price": 1108,
+    "originalPrice": 1547,
+    "stock": 3,
     "img": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22300%22%20height%3D%22300%22%20viewBox%3D%220%200%20300%20300%22%3E%3Crect%20width%3D%22300%22%20height%3D%22300%22%20fill%3D%22%2523fef3c7%22%2F%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2250%25%22%20dominant-baseline%3D%22middle%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%2220%22%20font-weight%3D%22bold%22%20fill%3D%22%2523b45309%22%3E%F0%9F%93%B7%20Action%20Camera%3C%2Ftext%3E%3C%2Fsvg%3E"
   },
   {
@@ -59,16 +59,16 @@
     "category": "Combo Offers",
     "price": 935,
     "originalPrice": 1212,
-    "stock": 28,
+    "stock": 0,
     "img": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22300%22%20height%3D%22300%22%20viewBox%3D%220%200%20300%20300%22%3E%3Crect%20width%3D%22300%22%20height%3D%22300%22%20fill%3D%22%2523fef3c7%22%2F%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2250%25%22%20dominant-baseline%3D%22middle%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%2220%22%20font-weight%3D%22bold%22%20fill%3D%22%2523b45309%22%3E%F0%9F%93%B7%20Action%20Camera%3C%2Ftext%3E%3C%2Fsvg%3E"
   },
   {
     "id": 1791829367698,
-    "title": "High-Speed Blender Juicer",
+    "title": "Pro Gaming Optical Mouse",
     "category": "Electronics",
-    "price": 1357,
-    "originalPrice": 2394,
-    "stock": 22,
-    "img": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22300%22%20height%3D%22300%22%20viewBox%3D%220%200%20300%20300%22%3E%3Crect%20width%3D%22300%22%20height%3D%22300%22%20fill%3D%22%2523e0e7ff%22%2F%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2250%25%22%20dominant-baseline%3D%22middle%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%2220%22%20font-weight%3D%22bold%22%20fill%3D%22%25234338ca%22%3E%F0%9F%8E%A7%20HD%20Earbuds%3C%2Ftext%3E%3C%2Fsvg%3E"
+    "price": 1672,
+    "originalPrice": 2574,
+    "stock": 20,
+    "img": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22300%22%20height%3D%22300%22%20viewBox%3D%220%200%20300%20300%22%3E%3Crect%20width%3D%22300%22%20height%3D%22300%22%20fill%3D%22%2523fee2e2%22%2F%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2250%25%22%20dominant-baseline%3D%22middle%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%2220%22%20font-weight%3D%22bold%22%20fill%3D%22%2523dc2626%22%3E%F0%9F%8D%B3%20Cookware%20Set%3C%2Ftext%3E%3C%2Fsvg%3E"
   }
 ]
