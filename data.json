@@ -1,65 +1,74 @@
 [
   {
     "id": 101,
-    "title": "Ultra HD Wireless Headset",
+    "title": "Ergonomic Memory Foam Pillow",
     "category": "Kitchen & Home",
-    "price": 783,
-    "originalPrice": 1284,
+    "price": 1310,
+    "originalPrice": 1589,
+    "stock": 5,
+    "img": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22300%22%20height%3D%22300%22%20viewBox%3D%220%200%20300%20300%22%3E%3Crect%20width%3D%22300%22%20height%3D%22300%22%20fill%3D%22%2523e0e7ff%22%2F%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2250%25%22%20dominant-baseline%3D%22middle%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%2220%22%20font-weight%3D%22bold%22%20fill%3D%22%25234338ca%22%3E%F0%9F%8E%A7%20HD%20Earbuds%3C%2Ftext%3E%3C%2Fsvg%3E"
+  },
+  {
+    "id": 102,
+    "title": "Compact Air Fryer XL",
+    "category": "Electronics",
+    "price": 510,
+    "originalPrice": 819,
     "stock": 22,
     "img": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22300%22%20height%3D%22300%22%20viewBox%3D%220%200%20300%20300%22%3E%3Crect%20width%3D%22300%22%20height%3D%22300%22%20fill%3D%22%2523dcfce7%22%2F%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2250%25%22%20dominant-baseline%3D%22middle%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%2220%22%20font-weight%3D%22bold%22%20fill%3D%22%252315803d%22%3E%F0%9F%A5%A4%20Electric%20Juicer%3C%2Ftext%3E%3C%2Fsvg%3E"
   },
   {
-    "id": 102,
-    "title": "High-Speed Blender Juicer",
-    "category": "Electronics",
-    "price": 1120,
-    "originalPrice": 2123,
-    "stock": 16,
-    "img": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22300%22%20height%3D%22300%22%20viewBox%3D%220%200%20300%20300%22%3E%3Crect%20width%3D%22300%22%20height%3D%22300%22%20fill%3D%22%2523e0e7ff%22%2F%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2250%25%22%20dominant-baseline%3D%22middle%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%2220%22%20font-weight%3D%22bold%22%20fill%3D%22%25234338ca%22%3E%F0%9F%8E%A7%20HD%20Earbuds%3C%2Ftext%3E%3C%2Fsvg%3E"
-  },
-  {
     "id": 103,
-    "title": "High-Speed Blender Juicer",
+    "title": "Automatic Espresso Coffee Maker",
     "category": "Kitchen & Home",
-    "price": 1337,
-    "originalPrice": 1557,
-    "stock": 15,
-    "img": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22300%22%20height%3D%22300%22%20viewBox%3D%220%200%20300%20300%22%3E%3Crect%20width%3D%22300%22%20height%3D%22300%22%20fill%3D%22%2523fef3c7%22%2F%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2250%25%22%20dominant-baseline%3D%22middle%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%2220%22%20font-weight%3D%22bold%22%20fill%3D%22%2523b45309%22%3E%F0%9F%93%B7%20Action%20Camera%3C%2Ftext%3E%3C%2Fsvg%3E"
+    "price": 439,
+    "originalPrice": 1278,
+    "stock": 30,
+    "img": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22300%22%20height%3D%22300%22%20viewBox%3D%220%200%20300%20300%22%3E%3Crect%20width%3D%22300%22%20height%3D%22300%22%20fill%3D%22%2523fee2e2%22%2F%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2250%25%22%20dominant-baseline%3D%22middle%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%2220%22%20font-weight%3D%22bold%22%20fill%3D%22%2523dc2626%22%3E%F0%9F%8D%B3%20Cookware%20Set%3C%2Ftext%3E%3C%2Fsvg%3E"
   },
   {
     "id": 104,
-    "title": "Designer Leather Wallet",
+    "title": "Pro Gaming Optical Mouse",
     "category": "Electronics",
-    "price": 403,
-    "originalPrice": 865,
-    "stock": 7,
-    "img": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22300%22%20height%3D%22300%22%20viewBox%3D%220%200%20300%20300%22%3E%3Crect%20width%3D%22300%22%20height%3D%22300%22%20fill%3D%22%2523e0e7ff%22%2F%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2250%25%22%20dominant-baseline%3D%22middle%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%2220%22%20font-weight%3D%22bold%22%20fill%3D%22%25234338ca%22%3E%F0%9F%8E%A7%20HD%20Earbuds%3C%2Ftext%3E%3C%2Fsvg%3E"
+    "price": 1054,
+    "originalPrice": 1545,
+    "stock": 14,
+    "img": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22300%22%20height%3D%22300%22%20viewBox%3D%220%200%20300%20300%22%3E%3Crect%20width%3D%22300%22%20height%3D%22300%22%20fill%3D%22%2523fef3c7%22%2F%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2250%25%22%20dominant-baseline%3D%22middle%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%2220%22%20font-weight%3D%22bold%22%20fill%3D%22%2523b45309%22%3E%F0%9F%93%B7%20Action%20Camera%3C%2Ftext%3E%3C%2Fsvg%3E"
   },
   {
     "id": 1791806518420,
     "title": "Stainless Steel Knife Set",
     "category": "Kitchen & Home",
-    "price": 431,
-    "originalPrice": 1087,
-    "stock": 28,
+    "price": 706,
+    "originalPrice": 961,
+    "stock": 14,
     "img": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22300%22%20height%3D%22300%22%20viewBox%3D%220%200%20300%20300%22%3E%3Crect%20width%3D%22300%22%20height%3D%22300%22%20fill%3D%22%2523fef3c7%22%2F%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2250%25%22%20dominant-baseline%3D%22middle%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%2220%22%20font-weight%3D%22bold%22%20fill%3D%22%2523b45309%22%3E%F0%9F%93%B7%20Action%20Camera%3C%2Ftext%3E%3C%2Fsvg%3E"
   },
   {
     "id": 1791806561810,
-    "title": "T23",
+    "title": "Ultra HD Wireless Headset",
     "category": "Electronics",
-    "price": 727,
-    "originalPrice": 1154,
-    "stock": 4,
-    "img": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22300%22%20height%3D%22300%22%20viewBox%3D%220%200%20300%20300%22%3E%3Crect%20width%3D%22300%22%20height%3D%22300%22%20fill%3D%22%2523fef3c7%22%2F%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2250%25%22%20dominant-baseline%3D%22middle%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%2220%22%20font-weight%3D%22bold%22%20fill%3D%22%2523b45309%22%3E%F0%9F%93%B7%20Action%20Camera%3C%2Ftext%3E%3C%2Fsvg%3E"
+    "price": 1338,
+    "originalPrice": 2037,
+    "stock": 24,
+    "img": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22300%22%20height%3D%22300%22%20viewBox%3D%220%200%20300%20300%22%3E%3Crect%20width%3D%22300%22%20height%3D%22300%22%20fill%3D%22%2523e0e7ff%22%2F%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2250%25%22%20dominant-baseline%3D%22middle%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%2220%22%20font-weight%3D%22bold%22%20fill%3D%22%25234338ca%22%3E%F0%9F%8E%A7%20HD%20Earbuds%3C%2Ftext%3E%3C%2Fsvg%3E"
   },
   {
     "id": 1791829213762,
-    "title": "T20",
+    "title": "Stainless Steel Knife Set",
     "category": "Combo Offers",
-    "price": 240,
-    "originalPrice": 253,
-    "stock": 10,
+    "price": 935,
+    "originalPrice": 1212,
+    "stock": 28,
+    "img": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22300%22%20height%3D%22300%22%20viewBox%3D%220%200%20300%20300%22%3E%3Crect%20width%3D%22300%22%20height%3D%22300%22%20fill%3D%22%2523fef3c7%22%2F%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2250%25%22%20dominant-baseline%3D%22middle%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%2220%22%20font-weight%3D%22bold%22%20fill%3D%22%2523b45309%22%3E%F0%9F%93%B7%20Action%20Camera%3C%2Ftext%3E%3C%2Fsvg%3E"
+  },
+  {
+    "id": 1791829367698,
+    "title": "Skh",
+    "category": "Electronics",
+    "price": 23,
+    "originalPrice": 235,
+    "stock": 1,
     "img": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22300%22%20height%3D%22300%22%20viewBox%3D%220%200%20300%20300%22%3E%3Crect%20width%3D%22300%22%20height%3D%22300%22%20fill%3D%22%2523fee2e2%22%2F%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2250%25%22%20dominant-baseline%3D%22middle%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%2220%22%20font-weight%3D%22bold%22%20fill%3D%22%2523dc2626%22%3E%F0%9F%8D%B3%20Cookware%20Set%3C%2Ftext%3E%3C%2Fsvg%3E"
   }
 ]
